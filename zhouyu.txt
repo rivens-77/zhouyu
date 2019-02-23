@@ -1,1 +1,2 @@
 zhsahadadsji   xianzaijiandandian
+xuexixx学习git checkout --file 
