@@ -1,4 +1,8 @@
 	>izhsahadadsji   xianzaijiandandian
 xuexixx学习git checkout --file
 jixu xuexi
-Creating a new ranch is quik & simple
+<<<<<<< HEAD
+Creating a new ranch is quik AND simple
+=======
+Creating a new ranch is quik AND simple 
+>>>>>>> feature1
