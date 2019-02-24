@@ -1,2 +1,3 @@
 zhsahadadsji   xianzaijiandandian
-xuexixx学习git checkout --file 
+xuexixx学习git checkout --file
+jixu xuexi 
